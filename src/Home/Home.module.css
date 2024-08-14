@@ -1,0 +1,7 @@
+.homeSec{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    height: 100vh;
+    margin: 0;
+    background-color: #1A1B25;
+}

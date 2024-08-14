@@ -1,0 +1,52 @@
+.secGame{
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+    padding: 20px 0 0 20px;
+    color: #822E81;
+}
+.secBtn{
+    height: 25vh;
+    width: 80%;
+    margin: 30px 10% 0 10%;
+    background-color: #392061;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.btn{
+    height: 90%;
+    width: 200px;
+    margin-top: 10px;
+    background-color: #822E81;
+    border: 0;
+    border-radius: 10px;
+}
+.btn:active{
+    background-color: #522272;
+}
+.h2{
+    font-size: 30px;
+    padding: 20px 0 0 20px;
+    color: #822E81;
+}
+.btnJogar{
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+    background-color: #822E81;
+    border: 0;
+    border-radius: 10px;
+}
+.btnJogar:active{
+    background-color: #492349;
+}
+.homeSec{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    height: 100vh;
+    margin: 0;
+    background-color: #1A1B25;
+}
