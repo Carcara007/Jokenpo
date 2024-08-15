@@ -49,7 +49,7 @@ function Game() {
 
   return (
     <>
-      <section className={styles.homeSec}>
+
       <SideBar
         count={count}
         placarC={placarC}
@@ -70,7 +70,7 @@ function Game() {
             <h2 className={styles.h2}>Vencedor:{vitoria}</h2>
           </div>
         </section>
-      </section>
+
     </>
   )
 }
